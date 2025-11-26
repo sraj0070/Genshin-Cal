@@ -8,9 +8,16 @@
   "description": "Genshin Impact Pull & Pricing Calculator",
   "icons": [
     {
-      "src": "https://i.postimg.cc/vmbwPnJW/Genshin_Impact.webp",
+      "src": "https://i.postimg.cc/52hrKngJ/Crystals.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://i.postimg.cc/52hrKngJ/Crystals.png",
       "sizes": "512x512",
-      "type": "image/webp"
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
